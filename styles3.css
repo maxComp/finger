@@ -1,0 +1,190 @@
+@charset "UTF-8";
+body {
+font-family: 'Oswald';	
+padding:0px;
+margin:0px;
+min-height:100%;
+background: SkyBlue;
+}
+.content {
+top:5px;
+bottom:0px;
+left:0px;
+right:0px;
+margin-bottom:20px;
+}
+.footer {
+position:fixed;
+height:18px;
+left:0px;
+right:0px;
+bottom:20px;
+background: white;
+color:#888;
+text-align:center;
+padding:0px 0px 0px 0px;
+border-top:5px solid  black;
+border-bottom:5px solid  black;
+font-size:12px;
+}
+.card {
+background:white;
+border:1px solid  black;
+border-bottom:3px  solid black;
+padding:0px;
+margin:20px;
+}
+.card h2, h3,  h5{
+text-align:center;
+margin:0px;
+padding:10px;
+padding-bottom:0px;
+}
+.card p {
+margin:0px;
+padding:10px;
+}
+.card-image {
+width:100%;
+height:350px;
+padding:0px;
+margin:0px;
+background-position:center;
+background-repeat:no-repeat;
+background-color:silver;
+position:relative;
+}
+.card-image h1,
+.card-image h2,
+.card-image h3,
+.card-image h4,
+.card-image h5,
+.card-image h6 
+.card-image h7,
+.card-image h8,
+.card-image h9,
+.card-image h10,
+.card-image h11,
+.card-image h12,
+.card-image h13,
+.card-image h14,
+.card-image h15,
+.card-image h16,
+.card-image h17,
+.card-image h18,
+.card-image h19,
+.card-image h20,
+.card-image h21,
+.card-image h22,
+.card-image h23,
+.card-image h24,
+.card-image h25,
+.card-image h26,
+.card-image h27,
+.card-image h28,
+.card-image h29,
+.card-image h30,
+.card-image h31,
+.card-image h32,
+.card-image h33,
+.card-image h34,
+.card-image h35,
+.card-image h36,
+.card-image h37,
+.card-image h38,
+.card-image h39,
+.card-image h40,
+.card-image h41
+{
+position:absolute;
+bottom:0px;
+width:100%;
+color:white;
+background:rgba(0,0,0,0.65);
+margin:0px;
+padding:6px;
+border:none;
+}
+
+
+.image1 {
+background-image:url('royal2.JPG');
+}
+.image2 {
+background-image:url('torch.JPG');
+}
+.image3 {
+background-image:url('stagecoach.JPG');
+}
+.image4 {
+background-image:url('may71952.JPG');
+}
+.image5 {
+background-image:url('feb1053.JPG');
+}
+.image6 {
+background-image:url('march154.JPG');
+}
+.image7 {
+background-image:url('oct1156.JPG');
+}
+.image8 {
+background-image:url('oct2656x.JPG');
+}
+.image9 {
+background-image:url('royal6.jpg');
+}
+.image10 {
+background-image:url('royal5.JPG');
+}
+.image11 {
+background-image:url('royal4.JPG');
+}
+.image12 {
+background-image:url('coachgrand1.JPG');
+}
+.image13 {
+background-image:url('coachgrand2.JPG');
+}
+.image14 {
+background-image:url('coachmeal.JPG');
+}
+.image15 {
+background-image:url('clock.JPG');
+}
+.image16 {
+background-image:url('royalgrandx.JPG');
+}
+.image17 {
+background-image:url('glendell5137.JPG');
+}
+.image18 {
+background-image:url('comet102043.JPG');
+}
+.image19 {
+background-image:url('firstadd.JPG');
+}
+button {
+    background-color: white;
+    -moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
+    border-radius:10px;
+    color: black;
+    font-family: 'Oswald';
+    font-size: 10px;
+    text-decoration: none;
+    cursor: pointer;
+    border-style:solid
+}
+button:hover {
+    border: none;
+    background: white;
+    box-shadow: 0px 0px 1px #777;    
+} 
+table{background-color:silver;
+font-size:16px;
+font-weight: bold;}
+img {
+    max-width: 100%;
+    height: auto;
+}
